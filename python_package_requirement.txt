@@ -1,0 +1,3 @@
+matplotlib (plot figures)
+brian2 (neuronal network simulation)
+tensorflow (train DNN)
